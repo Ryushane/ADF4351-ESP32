@@ -13,7 +13,7 @@ This repository contains drivers for ADF4351 and a ESP32 example.
 
 ## Connection
 
-![ADF4351-ESP32-Connection](D:\Desktop\ADF4351-ESP32\assets\ADF4351-ESP32-Connection.jpg)
+![ADF4351-ESP32-Connection](https://github.com/Ryushane/ADF4351-ESP32/blob/master/assets/ADF4351-ESP32-Connection.jpg)
 
 - There are five lines to connect.
 
@@ -33,9 +33,8 @@ https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluat
 
 
 
-![1562062983662](D:\Desktop\ADF4351example\assets\1562062983662.png)
+![Software](https://github.com/Ryushane/ADF4351-ESP32/blob/master/assets/Software.png)
 
 - Then just fill in the registers on given example.
 
-![1562062997772](D:\Desktop\ADF4351example\assets\1562062997772.png)
-
+![example](https://github.com/Ryushane/ADF4351-ESP32/blob/master/assets/example.png)
